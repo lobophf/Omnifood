@@ -14,4 +14,4 @@ food delivery app. The course focuses on the front-end, so the links and the for
 - [jQuery](https://jquery.com/)
 
 ## Licence
-This project is under the MIT license. See the [LICENSE.md] file (./ LICENSE) for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/lobophf/Omnifood/blob/master/LICENSE) for more details.
