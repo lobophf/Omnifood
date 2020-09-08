@@ -4,7 +4,8 @@
 </h1> 
 
 ## About
-This website was developed following the teachings of Jonas Schmedtmann, at Udemy. This is about advertising a fictional 
+This website was developed following the teachings of [Jonas Schmedtmann](https://twitter.com/jonasschmedtman), at 
+[Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/). This is about advertising a fictional 
 food delivery app. The course focuses on the front-end, so the links and the form are not functional.
 
 ## Technology
